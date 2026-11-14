@@ -2,7 +2,7 @@
 
 A collection of PostgreSQL practice questions and solutions from [PGExercises](https://pgexercises.com/).
 
-This repository contains solutions with simple explanations and references to the concepts used. It is intended for learning, revision and practice.
+This repository contains solutions with simple explanations and references to the concepts used. It is intended for learning, revision, and practice.
 
 ## Table of Contents
 
